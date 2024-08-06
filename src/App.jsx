@@ -15,7 +15,7 @@ const App = () => {
     
     <div className=' mt-10'>
       <h1 className=' text-indigo-800 text-4xl font-mono font-extrabold mb-2'>Thant Naing</h1>
-      <p className=' text-xl text-center'>Graphic Designer</p>
+      <p className=' text-xl text-center'>Frontend web developer</p>
     </div>
 
     <img className=' w-32 h-32' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZezcllNVwdbqsp9vF_YbDEzkDwMGH_hnRiA&s'/>
