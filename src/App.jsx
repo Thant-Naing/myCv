@@ -2,12 +2,12 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div className=' w-[800px] min-w-[400px] mx-auto  '>
+    <div className=' container  mx-auto  '>
 
 
-   <div className=' flex gap-20 '>
+   <div className=' container flex gap-20 '>
     <div>
-    <div className=' bg-indigo-700 w-[120px] h-[100px]'></div>
+    <div className=' container bg-indigo-700 w-[120px] h-[100px]'></div>
     <div className=' rounded-full border-white ml-6 -mt-20'>
        <img className=' border-4 m-6 border-white w-36 h-36 rounded-full' src='https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D'/>
        </div>
@@ -15,7 +15,7 @@ const App = () => {
     
     <div className=' mt-10'>
       <h1 className=' text-indigo-800 text-4xl font-mono font-extrabold mb-2'>Thant Naing</h1>
-      <p className=' text-xl text-center'>Product Designer</p>
+      <p className=' text-xl text-center'>Graphic Designer</p>
     </div>
 
     <img className=' w-32 h-32' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZezcllNVwdbqsp9vF_YbDEzkDwMGH_hnRiA&s'/>
